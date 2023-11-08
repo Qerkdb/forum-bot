@@ -1,0 +1,2 @@
+tok = 'vk1.a.QYDqQVEbfRkHSQe_-VY5dD8DTzN0w4j4kt_xyWjU_iZvtLcmo4EekcrRFNtk8jlIdPUX9U-HwkN9CGPZUOYVtBffmg3-ddO5bphn1sw-FO6d_pj-0MIvbw_X3XYrCZzHbDJAdXS9obGwCjYmA-2QJtAkGL_SjwepAEGO8XEQ7IMPyaFvE7d8DWhZ3y34qdnhfRt6asmh4YmU_qP55gHEtQ'
+hello = 'Bot Started Success!'
